@@ -1,3 +1,7 @@
+### Links
+
+- [Hugging Face](https://huggingface.co/seara)
+
 ### ML/DL projects
 
 #### Models
