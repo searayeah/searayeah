@@ -8,7 +8,7 @@
 #### Competitions
 
 - [avito-category-competition](https://github.com/searayeah/avito-category-competition) - Text classification competition solution
-- 
+- [vector-borne-disease-competiton](https://github.com/searayeah/vector-borne-disease-competiton) - Tabular classification competition
 
 #### Datasets
 
