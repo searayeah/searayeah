@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=searayeah)
+
 ### Links
 
 - [Hugging Face](https://huggingface.co/seara)
