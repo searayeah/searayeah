@@ -26,7 +26,6 @@
 - [telegram-rss-bot](https://github.com/searayeah/telegram-rss-bot) - Telegram bot for parsing Telegram channels RSS feeds
 - [vk-telegram-bot](https://github.com/searayeah/vk-telegram-bot) - TODO
 - [voenka-bot](https://github.com/searayeah/voenka-bot) - TODO
-- [MHbot](https://github.com/searayeah/MHbot) - TODO
 - [MIEM-project-parser](https://github.com/searayeah/MIEM-project-parser) - Parse all projects from MIEM projects website and display them in Google Sheets 
 
 ### Other
