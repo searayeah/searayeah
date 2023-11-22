@@ -27,8 +27,3 @@
 - [vk-telegram-bot](https://github.com/searayeah/vk-telegram-bot) - TODO
 - [v-bot](https://github.com/searayeah/v-bot) - TODO
 - [MIEM-project-parser](https://github.com/searayeah/MIEM-project-parser) - Parse all projects from MIEM projects website and display them in Google Sheets 
-
-### Other
-
-- [dota-camera-distance](https://github.com/searayeah/dota-camera-distance) - App that automatically changes Dota 2 camera distance
-
