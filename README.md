@@ -12,6 +12,7 @@
 - 🥇[alfa-challenge](https://github.com/searayeah/alfa-challenge) - Tabular classification competition on transactional data from Alfa-Bank
 - 🥉[rucode-competition](https://github.com/searayeah/rucode-competition) - Text classification, time-series forecasting and zero-shot image classification competition
 - [aidao2024-competition](https://github.com/searayeah/aidao2024-competition) - Yandex DS competition (clustering task)
+- [hse-aiahp](https://github.com/Contrast-Analytics/hse-aiahp) - Text generation competition
 - 🥇[hse_psb_hackathon](https://github.com/searayeah/hse_psb_hackathon) - Tabular Data Binary Classification Competition
 - 🥇[super-resolution-competition](https://github.com/searayeah/super-resolution-competition) - Super Resolution in Video Games competition
 - [news-scraping-competition](https://github.com/searayeah/news-scraping-competition) - Text scraping and classification competition
@@ -22,6 +23,7 @@
 #### Models
 
 - ⭐[bert-russian-sentiment-emotion](https://github.com/searayeah/bert-russian-sentiment-emotion) - Russian sentiment and emotion text classification project using BERT models
+- ⭐[sneakers-ml](https://github.com/miem-refugees/sneakers-ml) - Sneakers recommendation system and object-detection project
 - [pokemon-generation](https://github.com/searayeah/pokemon-generation) - Pokemon images generation using GANs
 
 #### Datasets
