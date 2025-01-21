@@ -15,10 +15,11 @@
 - [hse-aiahp](https://github.com/Contrast-Analytics/hse-aiahp) - Text generation competition
 - 🥇[hse_psb_hackathon](https://github.com/searayeah/hse_psb_hackathon) - Tabular Data Binary Classification Competition
 - 🥇[super-resolution-competition](https://github.com/searayeah/super-resolution-competition) - Super Resolution in Video Games competition
+- 🥇[atsf-2024-competition](https://github.com/searayeah/atsf-2024-competition) - Time-series forecasting competition
 - [news-scraping-competition](https://github.com/searayeah/news-scraping-competition) - Text scraping and classification competition
 - [health-outcome-horses](https://github.com/searayeah/health-outcome-horses) - Tabular classification competition
 - 🥇(on custom leaderboard) [tabular-vector-borne-disease-competiton](https://github.com/searayeah/tabular-vector-borne-disease-competiton) - Multi-class classification on tabular data
-- [avito-category-competition](https://github.com/searayeah/avito-category-competition) - Text classification competition solution
+- 🥈[avito-category-competition](https://github.com/searayeah/avito-category-competition) - Text classification competition solution
 
 #### Models
 
@@ -36,4 +37,4 @@
 - ⭐[v-bot](https://github.com/searayeah/v-bot) - A Telegram bot for HSE exam preparation
 - [telegram-rss-bot](https://github.com/searayeah/telegram-rss-bot) - Telegram bot for parsing RSS feeds
 - [vk-telegram-bot](https://github.com/searayeah/vk-telegram-bot) - An attempt to use VK inside a Telegram bot
-- [miem-project-parser](https://github.com/searayeah/miem-project-parser) - Parse all projects from MIEM projects website and display them in Google Sheets
+- [miem-project-parser](https://github.com/searayeah/miem-project-parser) - Parse all projects from miem projects website and display them in Google Sheets
