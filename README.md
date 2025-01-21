@@ -21,17 +21,17 @@
 
 #### Models
 
+- ⭐[bert-russian-sentiment-emotion](https://github.com/searayeah/bert-russian-sentiment-emotion) - Russian sentiment and emotion text classification project using BERT models
 - [pokemon-generation](https://github.com/searayeah/pokemon-generation) - Pokemon images generation using GANs
-- [bert-russian-sentiment-emotion](https://github.com/searayeah/bert-russian-sentiment-emotion) - Russian sentiment and emotion text classification project using BERT models
 
 #### Datasets
 
-- [russian-sentiment-emotion-datasets](https://github.com/searayeah/russian-sentiment-emotion-datasets) - A collection of Russian sentiment and emotion text classification datasets
-- [ru-goemotions](https://github.com/searayeah/ru-goemotions) - Russian translation of the GoEmotions dataset
+- ⭐[russian-sentiment-emotion-datasets](https://github.com/searayeah/russian-sentiment-emotion-datasets) - A collection of Russian sentiment and emotion text classification datasets
+- ⭐[ru-goemotions](https://github.com/searayeah/ru-goemotions) - Russian translation of the GoEmotions dataset
 
 #### Telegram bots and API
 
+- ⭐[v-bot](https://github.com/searayeah/v-bot) - A Telegram bot for HSE exam preparation
 - [telegram-rss-bot](https://github.com/searayeah/telegram-rss-bot) - Telegram bot for parsing RSS feeds
 - [vk-telegram-bot](https://github.com/searayeah/vk-telegram-bot) - An attempt to use VK inside a Telegram bot
-- [v-bot](https://github.com/searayeah/v-bot) - A Telegram bot for HSE exam preparation
 - [miem-project-parser](https://github.com/searayeah/miem-project-parser) - Parse all projects from MIEM projects website and display them in Google Sheets
