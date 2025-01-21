@@ -36,5 +36,5 @@
 
 - ⭐[v-bot](https://github.com/searayeah/v-bot) - A Telegram bot for HSE exam preparation
 - [telegram-rss-bot](https://github.com/searayeah/telegram-rss-bot) - Telegram bot for parsing RSS feeds
-- [vk-telegram-bot](https://github.com/searayeah/vk-telegram-bot) - An attempt to use VK inside a Telegram bot
+- [vk-telegram-bot](https://github.com/searayeah/vk-telegram-bot) - An attempt to implement VK inside a Telegram bot
 - [miem-project-parser](https://github.com/searayeah/miem-project-parser) - Parse all projects from miem projects website and display them in Google Sheets
